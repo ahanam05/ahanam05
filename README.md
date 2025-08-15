@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Ahana and I'm a third-year Computer Science and Engineering student from India.</h2>
+<h2 align="left">Hi! My name is Ahana and I'm a final year Computer Science and Engineering student from India.</h2>
 
 ###
 
